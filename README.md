@@ -9,6 +9,6 @@ haseebmirza/haseebmirza is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-📧 Email: haseeb.a.mirza@gmail.com 
-🌐 Portfolio: (https://haseeb-mirza-dev.vercel.app/)https://haseeb-mirza-dev.vercel.app/
-🐦 Linkedin: (https://www.linkedin.com/in/haseeb-mirza-53bab429/)https://www.linkedin.com/in/haseeb-mirza-53bab429/
+- 📧 Email: haseeb.a.mirza@gmail.com 
+- 🌐 Portfolio: (https://haseeb-mirza-dev.vercel.app/)
+- 🐦 Linkedin: (https://www.linkedin.com/in/haseeb-mirza-53bab429/)
