@@ -6,6 +6,6 @@
 
 - 📫 How to reach me ...
 
--- 📧 Email: haseeb.a.mirza@gmail.com 
--- 🌐 Portfolio: (https://haseeb-mirza-dev.vercel.app/)
--- 🐦 Linkedin: (https://www.linkedin.com/in/haseeb-mirza-53bab429/)
+- 📧 Email: haseeb.a.mirza@gmail.com 
+- 🌐 Portfolio: (https://haseeb-mirza-dev.vercel.app/)
+- 🐦 Linkedin: (https://www.linkedin.com/in/haseeb-mirza-53bab429/)
