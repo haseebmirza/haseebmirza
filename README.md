@@ -1,24 +1,43 @@
-Hi, I’m Haseeb Mirza 👋
-I’m a SaaS Architect & Full Stack Engineer focused on building scalable, automated systems for founders and small businesses. I specialize in the Laravel ecosystem and turning manual business bottlenecks into streamlined software.
+# Hi, I’m Haseeb Mirza <img src="https://media.giphy.com/media/hvRJCLzSxo32HA2ICf/giphy.gif" width="25px">
 
-🛠 My Core Stack
-Backend: Laravel, PHP, Node.js
+### **SaaS Architect & Full Stack Engineer** *Helping founders turn manual bottlenecks into scalable, AI-powered software.*
 
-Frontend: React, Filament, Tailwind CSS
+---
 
-Database: MySQL, PostgreSQL, Redis
+### **🚀 About Me**
+I’m a specialized developer focused on the **Laravel & Filament** ecosystem. I bridge "The Software Gap" by building high-performance backends and automated systems that allow businesses to scale without increasing headcount.
 
-Infrastructure: Docker, GitHub Actions (CI/CD), AWS
+- 🏗 **Architecting** multi-tenant SaaS platforms.
+- 🤖 **Automating** manual workflows with AI & API integrations.
+- 🔧 **Scaling** database performance and backend reliability.
 
-🚀 What I’m Doing
-🏗 Architecting multi-tenant SaaS platforms.
+---
 
-🤖 Building AI-powered automations to bridge "The Software Gap."
+### **🛠 Technical Stack**
 
-🔧 Writing clean, maintainable code following SOLID principles.
+| **Category** | **Technologies** |
+| :---------------- | :--------------------------------------------- |
+| **Backend** | Laravel, PHP, Node.js, REST APIs               |
+| **Frontend** | React, Filament, Tailwind CSS                  |
+| **Database** | MySQL, PostgreSQL, Redis                       |
+| **Infrastructure**| GitHub Actions (CI/CD), Docker, AWS            |
 
+---
 
-- 📫 How to reach me ...
+### **📊 My Focus in 2026**
+* **Filament:** Building the world's cleanest admin dashboards.
+* **AI Integration:** Making LLMs work for real-world business data.
+* **Clean Code:** Following SOLID/DRY principles for long-term maintainability.
 
-📧 Email: haseeb.a.mirza@gmail.com 
-🐦 Linkedin: (https://www.linkedin.com/in/haseeb-ahmad-mirza/)
+---
+
+### **📫 Let's Talk Shop**
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/haseeb-ahmad-mirza/](https://www.linkedin.com/in/haseeb-ahmad-mirza/)
+- 📧 **Email:** [haseeb.a.mirza@gmail.com](mailto:haseeb.a.mirza@gmail.com)
+
+---
+
+<p align="center">
+  <i>"I don't just write code; I build automated revenue engines."</i>
+</p>
+
