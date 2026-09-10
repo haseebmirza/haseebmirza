@@ -1,43 +1,39 @@
-# Hi, I’m Haseeb Mirza <img src="https://media.giphy.com/media/hvRJCLzSxo32HA2ICf/giphy.gif" width="25px">
+# Hey, I'm Haseeb 👋
 
-### **SaaS Architect & Full Stack Engineer** *Helping founders turn manual bottlenecks into scalable, AI-powered software.*
-
----
-
-### **🚀 About Me**
-I’m a specialized developer focused on the **Laravel & Filament** ecosystem. I bridge "The Software Gap" by building high-performance backends and automated systems that allow businesses to scale without increasing headcount.
-
-- 🏗 **Architecting** multi-tenant SaaS platforms.
-- 🤖 **Automating** manual workflows with AI & API integrations.
-- 🔧 **Scaling** database performance and backend reliability.
+**Senior Backend Engineer | Laravel · PHP · PostgreSQL | APIs, Multi-Tenant Architecture & AI Integration**
 
 ---
 
-### **🛠 Technical Stack**
+### About me
 
-| **Category** | **Technologies** |
-| :---------------- | :--------------------------------------------- |
-| **Backend** | Laravel, PHP, Node.js, REST APIs               |
-| **Frontend** | React, Filament, Tailwind CSS                  |
-| **Database** | MySQL, PostgreSQL, Redis                       |
-| **Infrastructure**| GitHub Actions (CI/CD), Docker, AWS            |
+Laravel backend engineer currently working on a fintech monitoring and compliance platform for a Swiss company — APIs, queued jobs, webhooks, multi-tenant architecture, and alert pipelines into Slack, Discord, and Zapier.
+
+Before that I spent four years building backend systems for different clients — a RAG chatbot, a sales CRM with Calendly sync, ERP systems, a venue booking platform, and a cargo pricing system. Writing code professionally since 2014.
 
 ---
 
-### **📊 My Focus in 2026**
-* **Filament:** Building the world's cleanest admin dashboards.
-* **AI Integration:** Making LLMs work for real-world business data.
-* **Clean Code:** Following SOLID/DRY principles for long-term maintainability.
+### What I work with
+
+| | |
+| :--- | :--- |
+| **Backend** | Laravel, PHP 8, REST APIs, multi-tenancy, queued jobs, webhooks, TDD |
+| **Databases** | PostgreSQL, MySQL, Redis, pgvector |
+| **Infrastructure** | Docker, AWS (EC2, S3), Nginx, Linux, Bitbucket Pipelines |
+| **Integrations** | Stripe, PayPal, Twilio, Calendly, Zapier, SendGrid, MTN, Tazapay |
+| **AI** | RAG, LLM integration (OpenAI, Gemini, Claude), vector search |
+| **Frontend** | React, Filament, Tailwind CSS |
+| **Mobile** | Flutter, Android |
 
 ---
 
-### **📫 Let's Talk Shop**
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/haseeb-ahmad-mirza/](https://www.linkedin.com/in/haseeb-ahmad-mirza/)
-- 📧 **Email:** [haseeb.a.mirza@gmail.com](mailto:haseeb.a.mirza@gmail.com)
+### Right now
+
+- Backend engineer at Framers Group (Switzerland, remote)
+- Open to senior backend roles and consulting projects
 
 ---
 
-<p align="center">
-  <i>"I don't just write code; I build automated revenue engines."</i>
-</p>
+### Say hi
 
+- **LinkedIn:** [linkedin.com/in/haseeb-ahmad-mirza](https://www.linkedin.com/in/haseeb-ahmad-mirza/)
+- **Email:** haseeb.a.mirza@gmail.com
