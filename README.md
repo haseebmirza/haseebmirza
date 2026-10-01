@@ -37,3 +37,4 @@ Before that I spent four years building backend systems for different clients â€
 
 - **LinkedIn:** [linkedin.com/in/haseeb-ahmad-mirza](https://www.linkedin.com/in/haseeb-ahmad-mirza/)
 - **Email:** haseeb.a.mirza@gmail.com
+- **Portfolio:** https://haseebmirza.github.io/
