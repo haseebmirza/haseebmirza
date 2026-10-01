@@ -1,6 +1,6 @@
 # Hey, I'm Haseeb 👋
 
-**Senior Backend Engineer | Laravel · PHP · PostgreSQL | APIs, Multi-Tenant Architecture & AI Integration**
+**Backend Engineer · Laravel · PHP · AWS**
 
 ---
 
