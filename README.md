@@ -1,40 +1,31 @@
-# Hey, I'm Haseeb 👋
+# Haseeb Mirza
 
-**Backend Engineer · Laravel · PHP · AWS**
+Senior backend engineer. Currently building a fintech monitoring and open-banking compliance platform at [Framers Group](https://framersgroup.ch/) (Switzerland, remote).
 
----
+The work involves multi-tenant data isolation, async alert delivery across five channels, compliance audit pipelines, and TDD as the default — not an afterthought.
 
-### About me
-
-Laravel backend engineer currently working on a fintech monitoring and compliance platform for a Swiss company — APIs, queued jobs, webhooks, multi-tenant architecture, and alert pipelines into Slack, Discord, and Zapier.
-
-Before that I spent four years building backend systems for different clients — a RAG chatbot, a sales CRM with Calendly sync, ERP systems, a venue booking platform, and a cargo pricing system. Writing code professionally since 2014.
+Previously led backend architecture at Hiba Logics — RAG chatbots, payment gateway integrations, webhook systems, CRMs. Before that, Android and internal tools going back to 2014.
 
 ---
 
-### What I work with
+**What I work with most**
 
-| | |
-| :--- | :--- |
-| **Backend** | Laravel, PHP 8, REST APIs, multi-tenancy, queued jobs, webhooks, TDD |
-| **Databases** | PostgreSQL, MySQL, Redis, pgvector |
-| **Infrastructure** | Docker, AWS (EC2, S3), Nginx, Linux, Bitbucket Pipelines |
-| **Integrations** | Stripe, PayPal, Twilio, Calendly, Zapier, SendGrid, MTN, Tazapay |
-| **AI** | RAG, LLM integration (OpenAI, Gemini, Claude), vector search |
-| **Frontend** | React, Filament, Tailwind CSS |
-| **Mobile** | Flutter, Android |
+Laravel · PHP 8.3 · PostgreSQL · Redis · REST APIs · Queued jobs · Webhooks · PHPUnit
+
+Also use: Python · FastAPI · Node.js · Apache Kafka · Docker · AWS (EC2, S3, RDS) · pgvector
 
 ---
 
-### Right now
+**Recent side project**
 
-- Backend engineer at Framers Group (Switzerland, remote)
-- Open to senior backend roles and consulting projects
+[BillFlow](https://github.com/haseebmirza/bill-flow-micro) — a 4-service event-driven billing system (Laravel, FastAPI, Node.js, Kafka) built to properly learn the database-per-service pattern and outbox-based event consistency.
 
 ---
 
-### Say hi
+**Open to** senior backend roles and consulting — especially fintech, compliance infrastructure, or anything with real integration complexity.
 
-- **LinkedIn:** [linkedin.com/in/haseeb-ahmad-mirza](https://www.linkedin.com/in/haseeb-ahmad-mirza/)
-- **Email:** haseeb.a.mirza@gmail.com
-- **Portfolio:** https://haseebmirza.github.io/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-ahmad-mirza)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b0f1a?style=flat-square&logo=github&logoColor=white)](https://haseebmirza.github.io)
+&nbsp;
+![](https://komarev.com/ghpvc/?username=haseebmirza&style=flat-square&color=6e7681)
